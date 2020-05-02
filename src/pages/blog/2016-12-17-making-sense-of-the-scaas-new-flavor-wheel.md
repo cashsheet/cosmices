@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: cashsheet.com
+title: CASHSHEET.COM
 date: 2020-05-02T23:30:44.072Z
 description: >+
   Cashsheet is the fast, painless way to digitize and archive receipts and
