@@ -3,7 +3,7 @@ templateKey: index-page
 title: Comprehensive Business Software
 image: /img/home-jumbotron.jpg
 heading: Enterprise Solutions
-subheading: Support for all mid to small businesses
+subheading: Custom Software and web development, ERP Consulting
 mainpitch:
   title: Why Cosmic
   description: We help small and medium sizes businesses to grow. We offer
