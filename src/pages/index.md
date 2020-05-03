@@ -11,10 +11,8 @@ mainpitch:
     cashsheet solution we are saving business time and money by turning piles of
     paper clutter into organized digital data, and Our POS solution integrating
     all our other solutions together.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Our expertise include mobile, web and custom software development.
+  Including supply chain, e-commerce solutions and many more
 intro:
   blurbs:
     - image: /img/coffee.png
