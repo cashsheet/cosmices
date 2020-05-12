@@ -6,7 +6,7 @@ description: Work more productively, operate more profitably with Cosmic POS.
   Increase guest service and effectively integrate with other business
   applications.
 featuredpost: true
-featuredimage: /img/flavor_wheel.jpg
+featuredimage: /img/austin-distel-744ogeqpxpq-unsplash.jpg
 tags:
   - pos
   - cosmicerp
@@ -14,6 +14,8 @@ tags:
   - expenses
 ---
 ## A little history
+
+![](/img/austin-distel-744ogeqpxpq-unsplash.jpg)
 
 Our POS is designed to meet the needs of a variety of foodservice operations, including table service restaurants, fast casual restaurants, smaller hotel food & beverage operations, bars, pubs, delicatessens and cafeterias. This new touchscreen POS was designed specifically for the neighborhood independent restaurant. Our POS combines the reliability and value of the color touchscreen with a feature-rich embedded software application to provide restaurant operators an affordable, functional, “all-in-one” product from COSMIC.
 
