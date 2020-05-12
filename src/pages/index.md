@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Comprehensive Business Software
-image: /img/home-jumbotron.jpg
+image: /img/scott-graham-5fnmwej4taa-unsplash-1-.jpg
 heading: Enterprise Solutions
 subheading: Custom, mobile, and web development. ERP Consulting
 mainpitch:
@@ -15,7 +15,7 @@ description: Our expertise include mobile, web and custom software development.
   Including supply chain, e-commerce solutions and many more
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/andrew-neel-cckf4tshauw-unsplash.jpg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
