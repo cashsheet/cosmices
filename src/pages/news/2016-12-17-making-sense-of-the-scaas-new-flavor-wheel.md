@@ -7,12 +7,12 @@ description: >+
   important paper documents in a single, secure location.
 
 featuredpost: false
-featuredimage: /img/dollar-5070042_640.png
+featuredimage: /img/flavor_wheel.jpg
 tags:
   - expenses
   - management
 ---
-![flavor wheel](/img/dollar-5070042_640.png)
+![flavor wheel](/img/flavor_wheel.jpg)
 
 Cashsheet scans receipts, business cards and other documents and turns these scanned images into useful data that is categorized, organized, fully searchable and available anytime, anywhere.
 
