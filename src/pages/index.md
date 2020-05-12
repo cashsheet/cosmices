@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Comprehensive Business Software
-image: /img/home-jumbotron.jpg
+image: /img/scott-graham-5fnmwej4taa-unsplash-1-.jpg
 heading: Enterprise Solutions
 subheading: Custom, mobile, and web development. ERP Consulting
 mainpitch:
