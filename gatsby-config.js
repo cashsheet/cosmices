@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: "Cosmic Enterprise Solutions LLC",
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Founded in 2013, Cosmic Enterprise Solutions LLC is a Minnesota based company. With solutions deployed locally, and internationally, Cosmic Enterprise Solutions LLC dedicated in mobile, desktop, Web development, and Application development.',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
@@ -15,6 +15,14 @@ module.exports = {
         name: 'uploads',
       },
     },
+    {
+      resolve: `gatsby-plugin-recaptcha`,
+      options: {
+         async: false,
+         defer: false,
+         args: `?onload=onloadCallback&render=explicit`,
+      },
+   },
     {
       resolve: 'gatsby-source-filesystem',
       options: {

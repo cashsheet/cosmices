@@ -1,12 +1,8 @@
 ---
 templateKey: about-page
 path: /about
-title: " "
+title: About Us
 ---
-![](/img/logo.svg)
-
-# About Us
-
 We help small and medium sizes businesses to grow. We offer Customer loyalty solution like tapacard.com for small businesses. With our cashsheet solution we are saving business time and money by turning piles of paper clutter into organized digital data, and Our POS solution integrating all our other solutions together.
 
 ### Who We Are
