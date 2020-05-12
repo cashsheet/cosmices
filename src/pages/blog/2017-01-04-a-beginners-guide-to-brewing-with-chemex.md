@@ -5,13 +5,13 @@ date: 2017-01-04T15:04:10.000Z
 description: One application that holds all your loyalty points, plus helps you
   find promotions near you.
 featuredpost: false
-featuredimage: /img/chemex.jpg
+featuredimage: /img/austin-distel-jphw8ndwj_q-unsplash.jpg
 tags:
   - software
   - expenses
   - loyalty
 ---
-![chemex](/img/chemex.jpg)
+![chemex](/img/austin-distel-jphw8ndwj_q-unsplash.jpg)
 
 ## For Business this is how tapacard helps:
 
