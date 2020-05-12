@@ -3,7 +3,7 @@ heading: Solutions for Businesses
 path: /products
 templateKey: product-page
 title: Our Products
-image: /img/jumbotron.jpg
+image: /img/conference-room-768441_1280.jpg
 description: We help small and medium sizes businesses to grow.
 intro:
   blurbs:
