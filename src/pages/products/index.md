@@ -54,7 +54,7 @@ testimonials:
   - author: Philipp Trommler
     quote: Kaldi is the place to go if you want the best quality coffee. I love
       their stance on empowering farmers and transparency.
-full_image: /img/lauren-mancke-aoc7tslb1o8-unsplash.jpg
+full_image: /img/nasa-q1p7bh3shj8-unsplash.jpg
 pricing:
   heading: cPanel Hosting Plans
   description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
