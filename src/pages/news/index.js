@@ -1,7 +1,7 @@
 import React from 'react'
-
 import Layout from '../../components/Layout'
 import BlogRoll from '../../components/BlogRoll'
+import image from "./../../img/newsCover.jpg"
 
 export default class BlogIndexPage extends React.Component {
   render() {
@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url(${image})`,
           }}
         >
           <h1
