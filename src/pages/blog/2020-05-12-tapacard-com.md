@@ -9,6 +9,8 @@ featuredimage: /img/austin-distel-jphw8ndwj_q-unsplash.jpg
 tags:
   - software expenses loyalty
 ---
+![](/img/austin-distel-jphw8ndwj_q-unsplash.jpg)
+
 **For Business this is how tapacard helps:**
 
 It gives business a customer–powered marketing solution. tapacard give your customer to return.
