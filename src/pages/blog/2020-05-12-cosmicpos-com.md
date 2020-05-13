@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: COSMICPOS.COM
-date: 2020-05-12T19:26:03.397Z
+date: 2014-08-14T19:26:00.000Z
 description: Work more productively, operate more profitably with Cosmic POS.
   Increase guest service and effectively integrate with other business
   applications.
