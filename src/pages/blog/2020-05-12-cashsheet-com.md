@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: CASHSHEET.COM
+title: cashsheet.com
 date: 2017-03-22T20:32:00.000Z
 description: Cashsheet is the fast, painless way to digitize and archive
   receipts and important paper documents in a single, secure location.
