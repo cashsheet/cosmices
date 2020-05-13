@@ -9,6 +9,8 @@ featuredimage: /img/gilles-lambert-pb_lf8vwapu-unsplash.jpg
 tags:
   - expenses management
 ---
+![](/img/gilles-lambert-pb_lf8vwapu-unsplash.jpg)
+
 Cashsheet scans receipts, business cards and other documents and turns these scanned images into useful data that is categorized, organized, fully searchable and available anytime, anywhere.
 
 Any receipt submitted for processing goes through our data extraction process, where the important information (vendor, total, tax, date, payment type) is extracted and then verified by a team member to ensure the highest possible accuracy. The processed receipt data is then categorized, organized in your online account.
