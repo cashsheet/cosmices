@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: TAPACARD.COM
+title: tapacard.com
 date: 2014-09-12T12:33:00.000Z
 description: One application that holds all your loyalty points, plus helps you
   find promotions near you.
