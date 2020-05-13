@@ -3,7 +3,7 @@ heading: Solutions for Businesses
 path: /products
 templateKey: product-page
 title: Our Products
-image: /img/laptop-3174729_1920.jpg
+image: /img/sean-pollock-phyq704ffda-unsplash.jpg
 description: We help small and medium sizes businesses to grow.
 intro:
   blurbs:
