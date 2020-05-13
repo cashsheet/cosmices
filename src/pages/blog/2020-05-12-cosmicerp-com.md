@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: COSMICERP.COM
-date: 2020-05-12T19:18:33.822Z
+date: 2014-07-02T11:18:00.000Z
 description: Cosmic ERP (Enterprise Resource Planning) Apps Solution is a
   fully-integrated business management system for Small Businesses. Cosmic ERP
   Solution is powerful and flexible system which is easy to enhance.
