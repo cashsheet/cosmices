@@ -24,27 +24,27 @@ const Footer = class extends React.Component {
               <div className="column is-4">
                 <section className="menu">
                   <ul className="menu-list">
-                    <li>
+                    <li style={{ padding: "8px 12px" }}>
                       <Link to="/" className="navbar-item">
                         Home
                       </Link>
                     </li>
-                    <li>
+                    <li style={{ padding: "8px 12px" }}>
                       <Link className="navbar-item" to="/about">
                         About
                       </Link>
                     </li>
-                    <li>
+                    <li style={{ padding: "8px 12px" }}>
                       <Link className="navbar-item" to="/products">
                         Products
                       </Link>
                     </li>
-                    <li>
+                    <li style={{ padding: "8px 12px" }}>
                       <Link className="navbar-item" to="/news">
                         News
                       </Link>
                     </li>
-                    <li>
+                    <li style={{ padding: "8px 12px" }}>
                       <Link className="navbar-item" to="/contact">
                         Contact
                       </Link>
@@ -67,9 +67,7 @@ const Footer = class extends React.Component {
                     <li style={{ padding: "8px 12px" }}>
                     Phone: (408) 638-9166
                     </li>
-                    <li style={{ padding: "8px 12px" }}>
-                    Go To Contact Form
-                    </li>
+                    
                   </ul>
                 </section>
               </div>
