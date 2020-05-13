@@ -13,7 +13,7 @@ const Index = () => (
 					<div className={styles.section}>
 
 							<p >
-								Please don't hesitate to reach out to us!
+								Please don't hesitate to reach out to us.
 							</p>
 							<form
 								name="Contact Form"
