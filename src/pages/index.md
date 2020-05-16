@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Comprehensive Business Software
+title: Your Software Solution Partner
 image: /img/scott-graham-5fnmwej4taa-unsplash-1-.jpg
 heading: Enterprise Solutions
-subheading: Custom, mobile, and web development. ERP Consulting
+subheading: application, web, mobile development and consulting
 mainpitch:
   title: Why Cosmic
   description: We help small and medium sizes businesses to grow. We offer
