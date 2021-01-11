@@ -8,36 +8,42 @@ description: We help small and medium sizes businesses to grow.
 intro:
   blurbs:
     - image: /img/flat-2126876_640-1-.png
-      text: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-        ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. "
+      text: Our Warehouse Management Solution is a Clean and Fast double entry based
+        Warehouse stock keeping with modern user interface hiding the
+        complexity. Shipping Integrations and Multi-warehouse support.
     - image: /img/codesymbol200.png
-      text: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-        ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. "
+      text: >-
+        Cashsheet scans receipts, business cards and other documents and turns
+        these scanned images into useful data that is categorized, organized,
+        fully searchable and available anytime, anywhere.
+
+
+        Any receipt submitted for processing goes through our data extraction process, where the important information (vendor, total, tax, date, payment type) is extracted and then verified by a team member to ensure the highest possible accuracy. The processed receipt data is then categorized, organized in your online account.
     - image: /img/reactsymbol200.png
-      text: "Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi
-        ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-        reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-        pariatur. "
+      text: Our Cosmic POS - is designed to meet the needs of a variety of foodservice
+        operations, including table service restaurants, fast casual
+        restaurants, smaller hotel food & beverage operations, bars, pubs,
+        delicatessens and cafeterias. This new touchscreen POS was designed
+        specifically for the neighborhood independent restaurant. Our POS
+        combines the reliability and value of the color touchscreen with a
+        feature-rich embedded software application to provide restaurant
+        operators an affordable, functional, “all-in-one” product from COSMIC.
     - image: /img/flat-2126878_640.png
-      text: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut
-        aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-        in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-  heading: What we offer
+      text: >-
+        Cosmic ERP meets the evolving business requirements of fast-growing
+        companies at every stage of their growth. It is the #1 choice to run
+        financials/ERP, CRM and ecommerce applications in the cloud.
+
+
+        From emerging businesses and start-ups, to established businesses, Cosmic ERP empowers modern, fast-growing companies, both private and public, to unlock their growth potential. Our cloud-based solutions streamline mission critical business processes and reduce IT costs, allowing you to easily scale and future-proof your business with an agile business platform that evolves as your needs change.
+  heading: Ware My House
   description: >
-    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-    deserunt mollit anim id est laborum.Excepteur sint occaecat cupidatat non
-    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Our Ware My House -  Warehouse Management allows an organization to control
+    the movement and storage of materials within a warehouse, including managing
+    associated processes as shipping, receiving, picking, and storage.
 main:
-  heading: Great Hosting Plans...
-  description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-    nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-    reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-    pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui
-    officia deserunt mollit anim id est laborum.
+  heading: We offer cloud hosting too
+  description: We offer limited Cloud hosting with CPanel and Linux environment.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/andrew-neel-cckf4tshauw-unsplash.jpg
