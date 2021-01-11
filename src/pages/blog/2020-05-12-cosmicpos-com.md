@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: cosmicpos.com
+title: Cosmic Point of Sale (POS)
 date: 2014-08-14T19:26:00.000Z
 description: Work more productively, operate more profitably with Cosmic POS.
   Increase guest service and effectively integrate with other business
