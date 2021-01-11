@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Your Software Solution Partner
+title: Cosmic Enterprise Solutions
 image: /img/scott-graham-5fnmwej4taa-unsplash-1-.jpg
 heading: Enterprise Solutions
-subheading: application, web, mobile development and consulting
+subheading: Your Software Solution Partner
 mainpitch:
   title: Why Cosmic
   description: We help small and medium sizes businesses to grow. We offer
