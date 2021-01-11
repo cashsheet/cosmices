@@ -7,7 +7,9 @@ description: One application that holds all your loyalty points, plus helps you
 featuredpost: true
 featuredimage: /img/austin-distel-jphw8ndwj_q-unsplash.jpg
 tags:
-  - software expenses loyalty
+  - software
+  - expenses
+  - loyalty
 ---
 ![](/img/austin-distel-jphw8ndwj_q-unsplash.jpg)
 
