@@ -3,31 +3,28 @@ templateKey: index-page
 title: Cosmic Enterprise Solutions
 image: /img/scott-graham-5fnmwej4taa-unsplash-1-.jpg
 heading: Enterprise Solutions
-subheading: Your Software Solution Partner
+subheading: Your Software Solution Partner Specializing in ERP & Ecommerce
 mainpitch:
   title: Why Cosmic
-  description: We help small and medium sizes businesses to grow. We offer
-    Customer loyalty solution like tapacard.com for small businesses.  With our
-    cashsheet solution we are saving business time and money by turning piles of
-    paper clutter into organized digital data, and Our POS solution integrating
-    all our other solutions together.
+  description: We help small and medium sizes businesses to grow. We offer CRM
+    Solution, E Commerce, Sales & Distribution, Warehouse Management, and ERP
+    Consulting.  Most of our products are designed for small to medium size
+    companies willing to optimize their operations.
 description: Our expertise include mobile, web and custom software development.
-  Including supply chain, e-commerce solutions and many more
+  Including supply chain, e-commerce solutions, sales and distribution,
+  warehouse management, POS Solution and many more
 intro:
   blurbs:
     - image: /img/reactsymbol200.png
       text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+        Our Cosmic Warehouse Management allows an organization to control the
+        movement and storage of materials within a warehouse, including managing
+        associated processes as shipping, receiving, picking, and storage.
     - image: /img/flat-2126876_640-1-.png
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+        Our Warehouse Management Solution is a Clean and Fast double entry based
+        Warehouse stock keeping with modern user interface hiding the
+        complexity. Shipping Integrations and Multi-warehouse support.
     - image: /img/flat-2126878_640.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
@@ -42,12 +39,10 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Sales & Distribution
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    From Quick quotation to confirmed sales with the simple clicks. Integrated
+    email communication with customer based on orders from within ERP.
 main:
   heading: Great coffee with no compromises
   description: >
