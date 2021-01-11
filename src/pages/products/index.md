@@ -53,7 +53,10 @@ main:
   image3:
     alt: WooCommerce Customization
     image: /img/conference-room-768441_1280.jpg
-testimonials: []
+testimonials:
+  - quote: A consumer goods producer hired Cosmic Enterprise Solutions LLC to
+      conduct an analysis and integrate ERP like systems to their business.
+    author: consumer goods
 full_image: /img/nasa-q1p7bh3shj8-unsplash.jpg
 pricing:
   heading: "ERP Consulting "
