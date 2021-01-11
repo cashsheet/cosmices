@@ -56,35 +56,8 @@ main:
 testimonials: []
 full_image: /img/nasa-q1p7bh3shj8-unsplash.jpg
 pricing:
-  heading: cPanel Hosting Plans
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-    eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  plans:
-    - description: Perfect for those who...
-      items:
-        - 1 Website
-        - 30GB Storage
-        - Standard Performance
-        - 10 Databases
-        - Unmetered Bandwidth
-      plan: Small
-      price: 6/month
-    - description: Perfect for those who...
-      items:
-        - 1 Website
-        - 30GB Storage
-        - Standard Performance
-        - 10 Databases
-        - Unmetered Bandwidth
-      plan: Big
-      price: 10/month
-    - description: Perfect for those who...
-      items:
-        - 1 Website
-        - 30GB Storage
-        - Standard Performance
-        - 10 Databases
-        - Unmetered Bandwidth
-      plan: Custom
-      price: 20/month
+  heading: "ERP Consulting "
+  description: Your one stop technology partner providing
+    ERP/Warehouse/POS/Backoffice solutions. Contact us for more details
+  plans: []
 ---
