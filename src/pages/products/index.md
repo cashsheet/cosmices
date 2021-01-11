@@ -59,5 +59,10 @@ pricing:
   heading: "ERP Consulting "
   description: Your one stop technology partner providing
     ERP/Warehouse/POS/Backoffice solutions. Contact us for more details
-  plans: []
+  plans:
+    - plan: Basic Warehouse Management on Cloud
+      price: $50/month/user
+      description: Warehouse management on our cloud
+      items:
+        - our warehouse management cloud platform waremyhouse.com
 ---
