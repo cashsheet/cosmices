@@ -42,16 +42,16 @@ intro:
     the movement and storage of materials within a warehouse, including managing
     associated processes as shipping, receiving, picking, and storage.
 main:
-  heading: We offer cloud hosting too
-  description: We offer limited Cloud hosting with CPanel and Linux environment.
+  heading: Cosmic ERP Development Services
+  description: Our ERP solutions are tailored for your business workflows.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: ODOO
     image: /img/andrew-neel-cckf4tshauw-unsplash.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
+    alt: SAP Consulting
     image: /img/gilles-lambert-pb_lf8vwapu-unsplash.jpg
   image3:
-    alt: Coffee beans
+    alt: WooCommerce Customization
     image: /img/conference-room-768441_1280.jpg
 testimonials: []
 full_image: /img/nasa-q1p7bh3shj8-unsplash.jpg
