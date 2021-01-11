@@ -3,7 +3,9 @@ templateKey: about-page
 path: /about
 title: About Us
 ---
-We help small and medium sizes businesses to grow. We offer Customer loyalty solution like tapacard.com for small businesses. With our cashsheet solution we are saving business time and money by turning piles of paper clutter into organized digital data, and Our POS solution integrating all our other solutions together.
+We help small and medium sizes businesses to grow. We are a group of skilled people in various domains and software technological space help businesses in problem solving. We provide specific software tools and services to solve your business problems.
+
+Most of our products are designed for small to medium size companies willing to optimize their operations. Our expertise include ERP, Sales and Distribution, Warehouse Management, Expense Management, and Software Development. 
 
 ### Who We Are
 
