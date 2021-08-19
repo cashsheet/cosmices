@@ -8,8 +8,8 @@ featuredpost: true
 featuredimage: /img/austin-distel-jphw8ndwj_q-unsplash.jpg
 tags:
   - software
-  - expenses
-  - loyalty
+  - transportation
+  - consulting
 ---
 ![](/img/austin-distel-jphw8ndwj_q-unsplash.jpg)
 
