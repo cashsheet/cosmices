@@ -65,9 +65,9 @@ pricing:
       description: Warehouse management on our cloud
       items:
         - our warehouse management cloud platform waremyhouse.com
-    - plan: Sheep
+    - plan: Sheep/Goat
       price: 250/head
-      description: COSMICPOS.COM access for cloud
+      description: Sheep or Goat
       items:
-        - Dorper Sheep
+        - Dorper Sheep or Boer Goat
 ---
