@@ -70,9 +70,4 @@ pricing:
       description: COSMICPOS.COM access for cloud
       items:
         - Dorper Sheep
-    - plan: Goat
-      price: 250/head
-      description: Live Goat
-      items:
-        - Boar Goat
 ---
