@@ -2,14 +2,14 @@
 templateKey: index-page
 title: Cosmic Enterprise Solutions LLC
 image: /img/scott-graham-5fnmwej4taa-unsplash-1-.jpg
-heading: Enterprise Solutions
-subheading: Your Software Solution Partner Specializing in ERP & Ecommerce
+heading: Farm Solutions
+subheading: Your Farm Solution Partner Specializing in Alfalfa and Supply Chain
 mainpitch:
   title: Why Cosmic
-  description: We help small and medium sizes businesses to grow. We offer CRM
-    Solution, E Commerce, Sales & Distribution, Warehouse Management, and ERP
-    Consulting.  Most of our products are designed for small to medium size
-    companies willing to optimize their operations.
+  description: We help small and medium sizes farms to grow. We offers premium
+    quality alfalfa hay, and exceptional customer service. We are the West Coast
+    source for alfalfa products as well as halal meat products. We also offer
+    farm supply chain and IT Support.
 description: Our expertise include mobile, web and custom software development.
   Including supply chain, e-commerce solutions, sales and distribution,
   warehouse management, POS Solution and many more
