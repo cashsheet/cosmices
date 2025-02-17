@@ -20,14 +20,11 @@ intro:
 
         Any receipt submitted for processing goes through our data extraction process, where the important information (vendor, total, tax, date, payment type) is extracted and then verified by a team member to ensure the highest possible accuracy. The processed receipt data is then categorized, organized in your online account.
     - image: /img/reactsymbol200.png
-      text: Our Cosmic POS - is designed to meet the needs of a variety of foodservice
-        operations, including table service restaurants, fast casual
-        restaurants, smaller hotel food & beverage operations, bars, pubs,
-        delicatessens and cafeterias. This new touchscreen POS was designed
-        specifically for the neighborhood independent restaurant. Our POS
-        combines the reliability and value of the color touchscreen with a
-        feature-rich embedded software application to provide restaurant
-        operators an affordable, functional, “all-in-one” product from COSMIC.
+      text: Alfalfa is a legume hay in the pea family and is sometimes called
+        “lucerne.” When properly cured, alfalfa is the best of the legume hays
+        from a nutrient standpoint. Alfalfa is used for horses, dairy cows, beef
+        cattle, sheep, chickens, turkeys and other farm animals, and has the
+        most feed value of all the perennial pasture forages.
     - image: /img/flat-2126878_640.png
       text: >-
         Cosmic ERP meets the evolving business requirements of fast-growing
@@ -57,7 +54,7 @@ testimonials:
   - quote: A consumer goods producer hired Cosmic Enterprise Solutions LLC to
       conduct an analysis and integrate ERP like systems to their business.
     author: consumer goods
-full_image: /img/nasa-q1p7bh3shj8-unsplash.jpg
+full_image: /img/alfafa1.jpg
 pricing:
   heading: "ERP Consulting "
   description: Your one stop technology partner providing
