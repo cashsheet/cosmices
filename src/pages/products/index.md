@@ -60,8 +60,8 @@ pricing:
   description: Your one stop technology partner providing
     ERP/Warehouse/POS/Backoffice solutions. Contact us for more details
   plans:
-    - plan: Basic Warehouse Management on Cloud
-      price: 50/month/user
+    - plan: Alfalfa Hay
+      price: 10/Bales
       description: Warehouse management on our cloud
       items:
         - our warehouse management cloud platform waremyhouse.com
