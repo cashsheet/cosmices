@@ -69,7 +69,7 @@ pricing:
       price: 250/head
       description: COSMICPOS.COM access for cloud
       items:
-        - Our POS cloud environment to manage your business Point of Sale needs
+        - Dorper Sheep
     - plan: Goat
       price: 250/head
       description: Live Goat
