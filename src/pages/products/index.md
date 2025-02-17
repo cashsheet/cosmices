@@ -65,9 +65,14 @@ pricing:
       description: Warehouse management on our cloud
       items:
         - our warehouse management cloud platform waremyhouse.com
-    - plan: Cosmic POS Cloud
-      price: 40/Store/user
+    - plan: Sheep
+      price: 250/head
       description: COSMICPOS.COM access for cloud
       items:
         - Our POS cloud environment to manage your business Point of Sale needs
+    - plan: Goat
+      price: 250/head
+      description: Live Goat
+      items:
+        - Boar Goat
 ---
