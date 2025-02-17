@@ -3,7 +3,7 @@ templateKey: index-page
 title: Cosmic Enterprise Solutions LLC
 image: /img/scott-graham-5fnmwej4taa-unsplash-1-.jpg
 heading: Farm Solutions
-subheading: Your Farm Solution Partner Specializing in Alfalfa and Supply Chain
+subheading: Your Farm Solution Partner Specializing in Alfalfa and IT
 mainpitch:
   title: Why Cosmic
   description: We help small and medium sizes farms to grow. We offers premium
