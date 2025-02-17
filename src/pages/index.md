@@ -10,9 +10,8 @@ mainpitch:
     quality alfalfa hay, and exceptional customer service. We are the West Coast
     source for alfalfa products as well as halal meat products. We also offer
     farm supply chain and IT Support.
-description: Our expertise include mobile, web and custom software development.
-  Including supply chain, e-commerce solutions, sales and distribution,
-  warehouse management, POS Solution and many more
+description: Our expertise include alfalfa hay, halal meat including farm supply
+  chain and IT Support
 intro:
   blurbs:
     - image: /img/reactsymbol200.png
