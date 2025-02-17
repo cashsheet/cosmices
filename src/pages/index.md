@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Cosmic Enterprise Solutions
+title: Cosmic Enterprise Solutions LLC
 image: /img/scott-graham-5fnmwej4taa-unsplash-1-.jpg
 heading: Enterprise Solutions
 subheading: Your Software Solution Partner Specializing in ERP & Ecommerce
