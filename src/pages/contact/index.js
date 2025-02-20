@@ -21,14 +21,14 @@ const Index = () => (
 								data-netlify-recaptcha="true"
 								action="/contact/thanks"
 							>
-								<input type="hidden" name="form-name" value="Contact Form"/>
+								<input type="hidden" name="form-name" value="Contact Form" />
 								<div className="field">
 									<label className={styles.label}>Your Name:</label>
-									<input className={styles.field} type="text" name="name"/>
+									<input className={styles.field} type="text" name="name" />
 								</div>
 								<div className="field">
 									<label className={styles.label}>Your Email:</label>
-									<input className={styles.field} type="email" name="email"/>
+									<input className={styles.field} type="email" name="email" />
 								</div>
 								<div>
 									<label className={styles.label}>Message:</label>
