@@ -11,7 +11,6 @@ const Index = () => (
 					<div className="content">
 					<h1 className={styles.title}>Contact</h1>
 					<div className={styles.section}>
-
 							<p >
 								Please don't hesitate to reach out to us.
 							</p>
