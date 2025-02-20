@@ -11,7 +11,7 @@ const Index = () => (
 					<div className="content">
 					<h1 className={styles.title}>Contact</h1>
 					<div className={styles.section}>
-							<p >
+							<p>
 								Please don't hesitate to reach out to us.
 							</p>
 							<form
@@ -34,7 +34,7 @@ const Index = () => (
 									<label className={styles.label}>Message:</label>
 									<textarea className={styles.textarea} name="message" />
 								</div>
-								<ReCAPTCHA sitekey={process.env.GATSBY_RECAPTCHA_KEY} />
+								{/*<ReCAPTCHA sitekey={process.env.GATSBY_RECAPTCHA_KEY}/>*/}
 								<button className="button is-link" type="submit">
 									Send
 								</button>
