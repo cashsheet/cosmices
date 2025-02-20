@@ -32,9 +32,9 @@ const Index = () => (
 								</div>
 								<div>
 									<label className={styles.label}>Message:</label>
-									<textarea className={styles.textarea} name="message" />
+									<textarea className={styles.textarea} name="message"/>
 								</div>
-								{/*<ReCAPTCHA sitekey={process.env.GATSBY_RECAPTCHA_KEY}/>*/}
+								<ReCAPTCHA sitekey={process.env.GATSBY_RECAPTCHA_KEY}/>
 								<button className="button is-link" type="submit">
 									Send
 								</button>
