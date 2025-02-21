@@ -5,6 +5,7 @@ import Layout from "../../components/Layout";
 import Recaptcha from "react-google-recaptcha";
 
 const RECAPTCHA_KEY = process.env.SITE_RECAPTCHA_KEY;
+console.log(RECAPTCHA_KEY)
 function encode(data) {
 	return Object.keys(data)
 		.map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
