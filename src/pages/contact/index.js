@@ -4,8 +4,6 @@ import * as styles from "../../components/NetlifyForm/NetlifyForm.module.css";
 import Layout from "../../components/Layout";
 import Recaptcha from "react-google-recaptcha";
 
-const RECAPTCHA_KEY = process.env.SITE_RECAPTCHA_KEY;
-console.log(RECAPTCHA_KEY)
 function encode(data) {
 	return Object.keys(data)
 		.map(key => encodeURIComponent(key) + "=" + encodeURIComponent(data[key]))
@@ -40,6 +38,7 @@ export default class Index extends React.Component {
 			.catch(error => alert(error));
 	};
 	render() {
+		console.log(process.env.SITE_RECAPTCHA_KEY)
 		return (
 		<Layout>
 			<section className="section">
@@ -76,7 +75,7 @@ export default class Index extends React.Component {
 								</div>
 								<Recaptcha
 									ref="recaptcha"
-									sitekey={RECAPTCHA_KEY}
+									sitekey={process.env.SITE_RECAPTCHA_KEY}
 									onChange={this.handleRecaptcha}
 								/>
 								<button className="button is-link" type="submit">
