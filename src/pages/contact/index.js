@@ -38,7 +38,6 @@ export default class Index extends React.Component {
 			.catch(error => alert(error));
 	};
 	render() {
-		console.log(process.env.SITE_RECAPTCHA_KEY)
 		return (
 		<Layout>
 			<section className="section">
